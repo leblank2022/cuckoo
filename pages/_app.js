@@ -10,7 +10,7 @@ export class MyApp extends App {
     return (
       <div>
         <Head>
-          <title>Cuckoo Club</title>
+          <title>Cuckoo Club | NFTs on Cardano</title>
           <meta charSet="utf-8" />
           <meta
             name="viewport"

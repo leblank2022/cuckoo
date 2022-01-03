@@ -24,10 +24,10 @@ export default class Sidebar extends Component {
             </Link>
           </div>
           <div className="social-icons">
-            <a title="Medium" href="https://medium.com/" target="_blank">
+            <a title="Medium" href="https://medium.com/">
               <Icon name="medium"></Icon>
             </a>
-            <a title="Youtube" href="https://www.youtube.com/" target="_blank">
+            <a title="Youtube" href="https://www.youtube.com/">
               <Icon name="youtube square"></Icon>
             </a>
           </div>
